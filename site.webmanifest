@@ -1,0 +1,22 @@
+{
+  "name": "Umbra Konsortium",
+  "short_name": "Umbra",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
+":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}
